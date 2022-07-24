@@ -45,7 +45,7 @@
     "short_name": "BudgetBalla",
     "orientation": "portrait",
     "display": "standalone",
-    "start_url": ".",
+    "start_url": "/",
     "description": "This app helps you track your income and expenditures.",
     "background_color": "#01579b",
     "theme_color": "#ffffff"
